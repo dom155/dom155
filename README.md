@@ -83,17 +83,6 @@ Principais objetivos:
 
 ---
 
-### 🍽️ Reservou
-
-Sistema de reserva de restaurantes desenvolvido como projeto acadêmico utilizando HTML, CSS, JavaScript e JSON Server.
-
----
-
-### 🍳 Receitas da Sandra
-
-Aplicação web para cadastro e gerenciamento de receitas, desenvolvida com HTML, CSS, JavaScript e JSON Server.
-
----
 
 ## 🎯 Atualmente focado em
 

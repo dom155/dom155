@@ -2,7 +2,7 @@
 
 Sou estudante de **Sistemas de Informação na PUC Minas** e formado como **Técnico em Informática pelo Colégio COTEMIG**.
 
-Iniciei minha trajetória profissional na área de Tecnologia em 2024, atuando inicialmente como estagiário e posteriormente com **Suporte e Análise de Dados**, trabalhando com consultas SQL, tratamento e validação de dados, bancos PostgreSQL e MySQL, suporte a sistemas, WMS e automação de processos com Python.
+Iniciei minha trajetória profissional na área de Tecnologia em 2024, atuando inicialmente como estagiário e posteriormente com **Suporte e Análise de Dados**, trabalhando com consultas SQL, tratamento e validação de dados, bancos PostgreSQL e MySQL, suporte a sistemas e automação de processos com Python.
 
 Atualmente estou direcionando meus estudos e projetos pessoais para as áreas de **Análise de Dados, Business Intelligence, automação e inteligência operacional**, buscando transformar dados brutos em informações úteis para tomada de decisão.
 

@@ -64,7 +64,7 @@ Iniciei na empresa como **Estagiário de TI em maio de 2024**, sendo posteriorme
 
 ### 🚚 Torre de Controle Logística
 
-Projeto pessoal em desenvolvimento voltado para **Dados e Business Intelligence aplicados à logística**.
+Projeto pessoal voltado para **Dados e Business Intelligence aplicados à logística**.
 
 O projeto utiliza dados públicos reais de e-commerce brasileiro e contempla o fluxo:
 
@@ -78,8 +78,6 @@ Principais objetivos:
 - Cálculo de Lead Time
 - Análise de performance logística por região
 - Análise do impacto de atrasos na satisfação dos clientes
-
-> Em desenvolvimento — o projeto será documentado e publicado neste GitHub.
 
 ---
 
